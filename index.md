@@ -1,3 +1,10 @@
+# Aditya's First CS193 Homework
+- I love that this class is taught by undergrad students.
+- I am happy that this class teaches me how to use very important tools like github and terminal.
+- I am excited to learn more about github.
+- I am glad that they provide a PSO to get our questions answered.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
